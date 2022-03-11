@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikos
+- 👋 Hi, I’m Nikos. I’m Chemical Engineer (PhD)
 - 👀 I’m interested in computational modeling of wetting phenomena
 - ⚡ Fun fact: I love listening to music and playing the guitar! 🎸
 - 📫 You can reach me at <a href="mailto:nikoscham@gmail.com">nikoscham at gmail dot com</a>
